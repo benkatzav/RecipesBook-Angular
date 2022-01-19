@@ -1,2 +1,2 @@
 # RecipesBook-Angular
-Recipes book application with shopping list managments features 
+Recipes book application with shopping list managment features 
